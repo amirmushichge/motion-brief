@@ -14,7 +14,7 @@ and shows you how to sell the result.
 4. Start a new chat — upload any brand image
 
 **Option B — Web App**
-→ [Open Motion Brief Web App](https://claude.ai/public/artifacts/50a68c67-f263-48ae-a509-e47c990d8850)
+→ [Open Motion Brief Web App](amirmushich.link/MoBrief)
 
 ## Files
 - `INSTRUCTION.md` — system prompt for Claude Project
